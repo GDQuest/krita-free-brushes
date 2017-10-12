@@ -13,23 +13,16 @@ If you're looking for even better brushes and art tutorials, check out the [ ful
 
 ## Krita tutorials
 
-On the Youtube channel, you'll find dozens of free tutorials and art timelapses showcasing the brushes:
+On the [ Youtube channel ](http://youtube.com/c/gdquest), you'll find dozens of free tutorials and art timelapses showcasing the brushes:
 
 - [Free 6 hours Krita training](http://gdquest.com/tutorial/art/krita-tutorial-for-game-artists/)
 - [The Kraken: Game Creature Art Process with 2dGameArtGuru]( https://youtu.be/V2CDT8_VmUk)
-- [Speedpaint: Game hero sprite in Krita]( https://youtu.be/FGf56Jfa6JI)
-- [The Game Art Process with Pigdev]( https://youtu.be/eGfeXRlxn9A)
 
+### Want to learn game creation with _Free and Open Source_ tools?
 
-**Want to learn game creation with _Free and Open Source_ tools?**
+**To know when a new course comes out and get the best deals <a href="https://gumroad.com/follow_from_embed_form">Subscribe to GDquest on Gumroad</a>**
 
-1. Follow **[ NathanGDquest ](https://twitter.com/NathanGDquest)** on Twitter
-1. Subscribe to the **[ Youtube channel ](http://youtube.com/c/gdquest)**
-
-**To know when a new course comes out or to get the best deals, [ subscribe to GDquest on Gumroad ](https://gumroad.com/follow_from_embed_form)**
-
-
-*I'd also love to see what you make with the brushes. Don't hesitate to send me your art on Twitter, or come share it with the community on our [ Discord server ](https://discord.gg/87NNb3Z)!*
+*I'd also love to see what you make with the brushes. Don't hesitate to send me your art on [ Twitter ](https://twitter.com/NathanGDquest).*
 
 ## License: CC-Attribution-4.0
 
