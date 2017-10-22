@@ -11,6 +11,13 @@ If you're looking for even better brushes and art tutorials, check out the [ ful
 
 ![ Simple painting of a desert made with the brushes ](https://user-images.githubusercontent.com/12694995/30371150-eed7618c-9879-11e7-80bd-cc01d7e311a8.jpg)
 
+*<p align="center">If you're a brush creator, check out GDquest's open source [ Krita brush thumbnails generator ](https://github.com/NathanLovato/krita-brush-thumbnails-generator)</p>*
+
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/GDquest/free-krita-brushes/master/img/thumbnail-example.png" alt="Brush thumbnail generator example" />
+</p>
+
 ## Krita tutorials
 
 On the [ Youtube channel ](http://youtube.com/c/gdquest), you'll find dozens of free tutorials and art timelapses showcasing the brushes:
