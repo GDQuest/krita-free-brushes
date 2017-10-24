@@ -27,7 +27,7 @@ On the [ Youtube channel ](http://youtube.com/c/gdquest), you'll find dozens of 
 
 ### Want to learn game creation with _Free and Open Source_ tools?
 
-**To know when a new course comes out and get the best deals <a href="https://gumroad.com/follow_from_embed_form">Subscribe to GDquest on Gumroad</a>**
+**To know when a new course comes out and get the best deals <a href="https://gumroad.com/gdquest#">Subscribe to GDquest on Gumroad</a>**
 
 *I'd also love to see what you make with the brushes. Don't hesitate to send me your art on [ Twitter ](https://twitter.com/NathanGDquest).*
 
